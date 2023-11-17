@@ -1,6 +1,7 @@
 {
   "name": "hardhat-project",
   "devDependencies": {
+    "erc721a": "^4.2.3",
     "hardhat": "^2.17.0"
   },
   "dependencies": {
